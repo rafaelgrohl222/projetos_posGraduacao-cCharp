@@ -1,0 +1,10 @@
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\bin\Debug\projetoSaudacoes.exe.config
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\bin\Debug\projetoSaudacoes.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\bin\Debug\projetoSaudacoes.pdb
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.csproj.AssemblyReference.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.Form_saudacao.resources
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.Properties.Resources.resources
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.csproj.GenerateResource.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.csproj.CoreCompileInputs.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\projetoSaudacoes\projetoSaudacoes\obj\Debug\projetoSaudacoes.pdb
