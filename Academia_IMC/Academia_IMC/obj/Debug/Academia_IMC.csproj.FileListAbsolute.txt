@@ -1,0 +1,10 @@
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\bin\Debug\Academia_IMC.exe.config
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\bin\Debug\Academia_IMC.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\bin\Debug\Academia_IMC.pdb
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.csproj.AssemblyReference.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.Form1.resources
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.Properties.Resources.resources
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.csproj.GenerateResource.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.csproj.CoreCompileInputs.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\Academia_IMC\Academia_IMC\obj\Debug\Academia_IMC.pdb
