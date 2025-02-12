@@ -29,6 +29,7 @@ namespace Academia_IMC
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label_imc = new System.Windows.Forms.Label();
@@ -122,7 +123,7 @@ namespace Academia_IMC
             // 
             this.button_Sair.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button_Sair.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button_Sair.Location = new System.Drawing.Point(266, 242);
+            this.button_Sair.Location = new System.Drawing.Point(249, 242);
             this.button_Sair.Name = "button_Sair";
             this.button_Sair.Size = new System.Drawing.Size(89, 31);
             this.button_Sair.TabIndex = 8;
@@ -146,7 +147,7 @@ namespace Academia_IMC
             this.button_calcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_calcular.Location = new System.Drawing.Point(50, 242);
             this.button_calcular.Name = "button_calcular";
-            this.button_calcular.Size = new System.Drawing.Size(89, 31);
+            this.button_calcular.Size = new System.Drawing.Size(102, 31);
             this.button_calcular.TabIndex = 10;
             this.button_calcular.Text = "Calcular";
             this.button_calcular.UseVisualStyleBackColor = true;
@@ -168,6 +169,7 @@ namespace Academia_IMC
             this.Controls.Add(this.label_imc);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Academia IMC";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
