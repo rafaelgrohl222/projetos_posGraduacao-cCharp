@@ -1,0 +1,10 @@
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\bin\Debug\AgenciaViagens.exe.config
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\bin\Debug\AgenciaViagens.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\bin\Debug\AgenciaViagens.pdb
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.csproj.AssemblyReference.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.Properties.Resources.resources
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.csproj.GenerateResource.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.csproj.CoreCompileInputs.cache
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.exe
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.pdb
+D:\CCharp_Projetos\Estudos-PosGraduacao\AgenciaViagens\AgenciaViagens\obj\Debug\AgenciaViagens.Agencia.resources
